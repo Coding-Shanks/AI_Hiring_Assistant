@@ -65,7 +65,7 @@ streamlit run app.py
    ```
 
 ## 🌐 Live Demo  
-[View Live Demo](https://aihiringassistant-hcwz2z676tm7b9wr48myhr.streamlit.app/) *(Host on GitHub Pages or Netlify)*  
+[View Live Demo](https://aihiringassistant-hcwz2z676tm7b9wr48myhr.streamlit.app/) *(Host on GitHub Pages Streamlit Community Cloud)*  
 
 ## **🛠 Tech Stack**
 - **Frontend & UI**: Streamlit  
