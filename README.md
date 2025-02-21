@@ -63,9 +63,9 @@ streamlit run app.py
        "GOOGLE_GEMINI_API_KEY": "your-api-key-here"
    }
    ```
-6. **Live Demo:** [Click Here]([https://your-demo-link.com](https://aihiringassistant-hcwz2z676tm7b9wr48myhr.streamlit.app/))
 
----
+## 🌐 Live Demo  
+[View Live Demo](https://aihiringassistant-hcwz2z676tm7b9wr48myhr.streamlit.app/) *(Host on GitHub Pages or Netlify)*  
 
 ## **🛠 Tech Stack**
 - **Frontend & UI**: Streamlit  
